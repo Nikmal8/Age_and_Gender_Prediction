@@ -1,12 +1,9 @@
 # Streamlit App
 
+import cv2
 import streamlit as st
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase, RTCConfiguration, VideoProcessorBase, WebRtcMode
 
-try:
-    import cv2
-except ModuleNotFoundError:
-    print('ok')
 
 video = cv2.VideoCapture(0)
 
