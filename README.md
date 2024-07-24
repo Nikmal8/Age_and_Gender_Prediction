@@ -1,7 +1,7 @@
 # Age and Gender Detection
 Welcome to my Project! This project showcases my skills, projects, and experiences as a Data Scientist.
 
-### Demo: [web Link](https://ageandgenderprediction-kdxnwr27crak47vkuwukqx.streamlit.app/)
+### Demo: [Web Link](https://ageandgenderprediction-kdxnwr27crak47vkuwukqx.streamlit.app/)
 
 ## Some Images:
 <img width="450px;" src="https://github.com/user-attachments/assets/39b4f287-4c56-4919-9f23-d3379bd21c18"/>
