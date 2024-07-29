@@ -82,7 +82,7 @@ def main():
     st.title("Real Time Age and Gender Detection Application provide by KAMAL SINGH CHARAN")
     activiteis = ["Home", "Webcam Face Detection", "About"]
     choice = st.sidebar.selectbox("Select Activity", activiteis)
-    st.markdown('''
+    st.sidebar('''
       # About Me \n 
         Hey this is **KAMAL SINGH CHARAN**. \n
 
