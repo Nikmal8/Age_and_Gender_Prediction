@@ -85,7 +85,10 @@ def main():
     st.sidebar.markdown(
         f""" Developed by KAMAL SINGH CHARAN  
             Email : KC621843@GMAIL.COM ||
-            Linkedin : https://www.linkedin.com/in/kamal-charan21"""
+            Also check us out on Social Media
+            - [Portfolio](https://main--nikmal8.netlify.app/)
+            - [LinkedIn](https://www.linkedin.com/in/kamal-charan21/)
+            - [Github](https://github.com/Nikmal8)"""
     )
 
     if choice == "Home":
