@@ -82,14 +82,15 @@ def main():
     st.title("Real Time Age and Gender Detection Application provide by KAMAL SINGH CHARAN")
     activiteis = ["Home", "Webcam Face Detection", "About"]
     choice = st.sidebar.selectbox("Select Activity", activiteis)
-    st.sidebar.markdown(
-        f""" Developed by KAMAL SINGH CHARAN  
-            Email : KC621843@GMAIL.COM ||
-            Also check us out on Social Media
-            - [Portfolio](https://main--nikmal8.netlify.app/)
-            - [LinkedIn](https://www.linkedin.com/in/kamal-charan21/)
-            - [Github](https://github.com/Nikmal8)"""
-    )
+    st.markdown('''
+      # About Me \n 
+        Hey this is **KAMAL SINGH CHARAN**. \n
+
+        Also check us out on Social Media
+        - [Portfolio](https://main--nikmal8.netlify.app/)
+        - [LinkedIn](https://www.linkedin.com/in/kamal-charan21/)
+        - [Github](https://github.com/Nikmal8)
+        ''')
 
     if choice == "Home":
         html_temp_home1 = """<div style=padding:10px">
