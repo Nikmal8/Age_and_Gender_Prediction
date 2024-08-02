@@ -124,8 +124,8 @@ def main():
 
         html_temp4 = """
                              		<div style=padding:10px">
-                             		<h4 style=text-align:center;">This Application is developed by KAMAL SINGH CHARAN using Streamlit Framework, Opencv, Tensorflow and Keras library for demonstration purpose. If you're on LinkedIn and want to connect, just click on the link in sidebar and shoot me a request. If you have any suggestion or want to comment just write a mail at KC621843@GMAIL.COM. </h4>
-                             		<h4 style=text-align:center;">Thanks for Visiting</h4>
+                             		<h5 style=text-align:center;">This Application is developed by KAMAL SINGH CHARAN using Streamlit Framework, Opencv, Tensorflow and Keras library for demonstration purpose. If you're on LinkedIn and want to connect, just click on the link in sidebar and shoot me a request. If you have any suggestion or want to comment just write a mail at KC621843@GMAIL.COM. </h5>
+                             		<h6 style=text-align:center;">Thanks for Visiting</h6>
                              		</div>
                              		<br></br>
                              		<br></br>"""
