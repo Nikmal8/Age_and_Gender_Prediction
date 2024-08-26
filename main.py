@@ -5,7 +5,7 @@ import streamlit as st
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase, RTCConfiguration, VideoProcessorBase, WebRtcMode
 
 
-video = cv2.VideoCapture(0)
+video = cv2.VideoCapture(1)
 
 
 def faceBox(faceNet, frame):
